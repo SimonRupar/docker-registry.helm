@@ -1,4 +1,4 @@
-# Docker Registry Helm Chart
+# Docker Registry
 
 This directory contains a Kubernetes chart to deploy a private Docker Registry.
 
